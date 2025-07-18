@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\spielzwanzigkartenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\spielzwanzigkartenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\spielzwanzigkartenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\spielzwanzigkartenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\spielzehnkartenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\spielzehnkartenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\ergebniswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\ergebniswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\einstellungen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\einstellungen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\spielzehnkartenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\spielzehnkartenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\optionenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\optionenwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\ergebniswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\ergebniswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\bestenlistewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\bestenlistewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\bestenlistewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\bestenlistewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\optionenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\optionenwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|d:\\visualstudio2022\\c# wpf\\projekte\\memory-card-game____noah_azur_nacar\\memory-card-game____noah_azur_nacar\\bestenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B220C25-60C4-4352-A378-22704C16E34D}|Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar.csproj|solutionrelative:memory-card-game____noah_azur_nacar\\bestenliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpielZehnKartenWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T15:03:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpielZwanzigKartenWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAhwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:42:25.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpielZehnKartenWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZehnKartenWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwDsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:03:34.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpielZwanzigKartenWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\SpielZwanzigKartenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T14:31:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Einstellungen.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\Einstellungen.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\Einstellungen.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\Einstellungen.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\Einstellungen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:00:12.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErgebnisWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:50:29.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OptionenWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:40:46.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T13:40:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:40:21.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BestenlisteWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T13:38:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BestenlisteWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\BestenlisteWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:38:29.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErgebnisWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\ErgebnisWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T13:54:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bestenliste.cs",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\Bestenliste.cs",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\Bestenliste.cs",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\Bestenliste.cs",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\Bestenliste.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:49:00.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OptionenWindow.xaml",
+              "DocumentMoniker": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml",
+              "RelativeDocumentMoniker": "Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml",
+              "ToolTip": "D:\\VisualStudio2022\\C# WPF\\Projekte\\Memory-Card-Game____Noah_Azur_Nacar\\Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml",
+              "RelativeToolTip": "Memory-Card-Game____Noah_Azur_Nacar\\OptionenWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T13:40:44.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

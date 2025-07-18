@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Memory-Card-Game____Noah_Azur_Nacar/1.0.0": {
+        "runtime": {
+          "Memory-Card-Game____Noah_Azur_Nacar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Memory-Card-Game____Noah_Azur_Nacar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
