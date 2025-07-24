@@ -1,0 +1,9 @@
+﻿<Application x:Class="Memory_Card_Game____Noah_Azur_Nacar.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Memory_Card_Game____Noah_Azur_Nacar"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
